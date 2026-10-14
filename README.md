@@ -121,7 +121,6 @@ Webots e-puck 자율 장애물 회피 시연 영상
 
 https://github.com/user-attachments/assets/75e39774-ec3e-4d50-bd25-e5fc3b72f0aa
 
-[▶ 시연 영상 보기 / 다운로드](media/demo.mp4?raw=1)
 
 
 
