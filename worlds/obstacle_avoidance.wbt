@@ -7,24 +7,20 @@ EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/project
 
 WorldInfo {
 }
-
 Viewpoint {
-  orientation -0.2920513444081796 -0.7367879283239399 0.6097946875018604 5.130403061574545
-  position -0.8654375566146936 0.894618751481541 1.4214036263021619
+  orientation -0.15088911157006582 -0.4079509437450402 0.9004490565862833 5.503704357945072
+  position -1.3164623085157632 1.269690883745263 0.6053982525206502
 }
-
 TexturedBackground {
 }
-
 TexturedBackgroundLight {
 }
-
 RectangleArena {
-  translation 0 0 0
 }
-
 E-puck {
-  translation 0 0 0
-  rotation 0 0 1 0
+  hidden position_0_0 90.83845314174943
+  hidden position_0_1 48.840460674342545
+  hidden rotation_1 0 1 0 2.873858841235215
+  hidden rotation_2 0 -1 0 1.425021783094147
   controller "epuck_cpp"
 }
