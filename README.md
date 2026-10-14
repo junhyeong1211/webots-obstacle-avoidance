@@ -1,4 +1,4 @@
-# Webots Differential Drive Robot — Obstacle Avoidance
+# PROJECT 01 | Webots Obstacle Avoidance
 
 **Webots R2025a · C++ · e-puck · Reactive Control**  
 **진행 기간:** 2026-10-11 ~ 2026-10-14  
