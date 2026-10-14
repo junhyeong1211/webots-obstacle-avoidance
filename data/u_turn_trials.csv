@@ -1,0 +1,10 @@
+﻿date,scenario,initial_yaw_deg,trial,escape_time_s_observed,success,collisions_observed,stuck_10s,notes
+2026-10-14,u_shaped_dead_end,0,1,11.776,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,0,2,12.288,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,0,3,11.776,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,45,1,13.312,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,45,2,13.312,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,45,3,13.312,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,-45,1,12.800,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,-45,2,12.800,1,0,0,Time readings appear quantized to 0.512 s intervals
+2026-10-14,u_shaped_dead_end,-45,3,12.800,1,0,0,Time readings appear quantized to 0.512 s intervals
