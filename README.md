@@ -1,3 +1,5 @@
+
+
 # PROJECT 01 | Webots Obstacle Avoidance
 
 **Webots R2025a · C++ · e-puck · Reactive Control**  
@@ -115,4 +117,10 @@ Webots 모델의 `EXTERNPROTO` 참조 때문에 최초 실행 시 외부 리소�
 
 ## 8. 시연 영상
 
-영상 촬영·업로드 후 링크 추가 예정.
+Webots e-puck 자율 장애물 회피 시연 영상
+
+https://github.com/user-attachments/assets/75e39774-ec3e-4d50-bd25-e5fc3b72f0aa
+
+
+
+
